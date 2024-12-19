@@ -1,0 +1,27 @@
+.x{
+    height: 1000px;
+    width:  -max-content;
+    border: 5px black solid;
+
+    background-color: white;
+    background-image: url("powerlifebanne.png");
+    background-size: 1500px 1000px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 50%;
+    
+    
+}
+h1{
+    border: 5px blue solid;
+    text-decoration: none;
+    top: 1000px;
+}
+a{
+    width: 20px;
+    height: min-content;
+    text-decoration: underline;
+}
+a:hover{
+    color: blue;
+}
